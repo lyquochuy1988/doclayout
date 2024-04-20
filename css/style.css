@@ -3339,3 +3339,9 @@ a.social-link:hover {
 main.privacy-policy h6 {
 	text-transform: none;
 }
+
+/*********** CONTENTS *************/
+.img-contents img {
+	width: 100%;
+	max-width: 800px;
+}
